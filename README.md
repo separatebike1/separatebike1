@@ -1,11 +1,5 @@
-Hello, World!
+# Hello, World!
 
-These are my solo projects made in C using some skills i learned from CS50x.
-Currently on Week 4, or Memory, then im gonna learn Data Structures from Week 5,
-to see what solo projects i can make with them, and with the other concepts
-that im gonna learn in the future.
+### These are my solo projects made in C using some skills i learned from CS50x. Pretty useless, but i just put them here for fun!
 
-Good luck to myself!!
-
-PS:
-  After finishing the course, im gonna learn Java to become a back end developer!
+#### i know that i f'ed up on the sorter because i used bubble sort because it was easier for me to make and i know its slow since its time complexity is O(n^(2))
